@@ -1,5 +1,9 @@
-/* Chapter 1: Creating Webpages / Lesson 6: Styling Text with CSS / Level 2 */
+h1 {
+    color: blue;
+    text-align: center;
+}
 
-body {
-
+h2 {
+text-align: right;
+  color: red;
 }

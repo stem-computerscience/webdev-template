@@ -1,5 +1,12 @@
-/* Chapter 1: Creating Webpages / Lesson 6: Styling Text with CSS / Level 12 */
+/* 2) Change the font family for the paragraph tag */
 
-body {
+/* 3) Add a font family rule for the h1 or h3 tags */
+h1 {
+  color: red;
+  font-size: 24px;
+}
 
+p {
+  font-size: 14px;
+  font-family: cursive;
 }

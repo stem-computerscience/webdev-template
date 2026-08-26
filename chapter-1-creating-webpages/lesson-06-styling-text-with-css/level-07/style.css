@@ -1,5 +1,28 @@
-/* Chapter 1: Creating Webpages / Lesson 6: Styling Text with CSS / Level 7 */
+/* LEVEL 3: */
+/*
+1) Find the code in the style sheet (click on "style.css" in the files list) that is making the h1 heading red.
+2) Change the code for the color of the h1 heading from red to a different color.
+*/
 
-body {
+h1 {
+  color: red;
+  font-size: 24px;
+}
 
+/* LEVEL 4: */
+/*
+1) Find the CSS rule-set in the style sheet that determines the styles for the h1 tag.
+2) Using the same pattern, write a new CSS rule-set that will determine the style for the h3 tag.
+3) Add code to set a different color for the h3 tags.
+*/
+
+
+/* LEVEL 7: */
+/*
+1) Find the CSS rule-set in the style sheet that determines the style for the paragraph tag.
+2) Change the text size of the paragraphs and the headings.
+*/
+
+p {
+    font-size: 14px;
 }

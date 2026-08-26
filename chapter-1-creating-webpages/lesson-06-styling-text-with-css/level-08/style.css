@@ -1,5 +1,14 @@
-/* Chapter 1: Creating Webpages / Lesson 6: Styling Text with CSS / Level 8 */
+h1 {
+    color: purple;
+    font-size: 50px;
+}
 
-body {
+h3 {
+    color: orange;
+    font-size: 16px;
+}
 
+p {
+    color: teal;
+    font-size: 6px;
 }

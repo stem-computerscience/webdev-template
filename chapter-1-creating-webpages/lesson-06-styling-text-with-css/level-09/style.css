@@ -1,5 +1,9 @@
-/* Chapter 1: Creating Webpages / Lesson 6: Styling Text with CSS / Level 9 */
-
 body {
-
+  background: white;
 }
+h1 {
+  font-weight: bold;
+  color: purple;
+}
+p
+  color: gray;

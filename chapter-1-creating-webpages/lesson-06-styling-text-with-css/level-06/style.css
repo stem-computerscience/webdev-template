@@ -1,5 +1,13 @@
-/* Chapter 1: Creating Webpages / Lesson 6: Styling Text with CSS / Level 6 */
-
+/* 2) Once you see how to use the tool to get the RGB color values you want, use the tool to give color to the HTML elements on this page */
 body {
-
+  background: white;
 }
+h1{
+  color: rgb( 0 , 0, 0);
+}
+  h3 {
+  color: rgb( 0 , 0 , 0);
+}
+  p {
+  color: rgb( 0 , 0, 0);
+  }
