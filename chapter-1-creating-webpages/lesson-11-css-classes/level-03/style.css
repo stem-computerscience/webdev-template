@@ -1,5 +1,33 @@
-/* Chapter 1: Creating Webpages / Lesson 11: CSS Classes / Level 3 */
+/* 3) Add the class and rule set for each ghost */
+/* 4) Add properties to each rule set to style each ghost's image, heading and paragraph differently */
 
 body {
+  background: lightgrey;
+}
 
+h2 {
+  width: 50%;
+ margin-left: 150px;
+ padding: 5px;}
+
+
+p {
+ margin-left: 150px;
+ padding: 5px;
+}
+
+img {
+  width: 100px;
+  float: left;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+.blinky{
+  border: solid 3px;
+  border-color: red;
+  border-radius: 10px;
+ color: white;
+  font-family: cursive;
+ background-color: black;
 }

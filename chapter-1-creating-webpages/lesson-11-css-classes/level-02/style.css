@@ -1,5 +1,20 @@
-/* Chapter 1: Creating Webpages / Lesson 11: CSS Classes / Level 2 */
+/* 1) Find the rule set that makes the images at the top smaller than the ones on the main part of the page */
+/* 2) Add a new rule to one of the classes */
 
 body {
+  background: lightblue;
+  font-family: fantasy;
+}
 
+.top-img {
+  height: 50px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.main-img {
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 20px;
 }

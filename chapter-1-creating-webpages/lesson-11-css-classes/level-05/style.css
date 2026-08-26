@@ -1,5 +1,11 @@
-/* Chapter 1: Creating Webpages / Lesson 11: CSS Classes / Level 5 */
-
 body {
-
+  background: white;
 }
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+/* 2) Create a new rule set for your favorite month & use least three properties to style it */
