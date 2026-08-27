@@ -1,5 +1,53 @@
-/* Chapter 1: Creating Webpages / Lesson 12: Organizing Content with Flexbox / Level 7 */
-
+/* background color */
 body {
+  background: #edfcff;
+}
 
+/* paragraph styling */
+p {
+  font-family: sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+/* title style */
+h1 {
+  font-family: sans-serif;
+  font-size: 42px;
+  text-align: center;
+}
+
+/* image border style */
+img {
+  border-style: solid;
+  border-radius: 10px;
+}
+
+/* height expanded for all divs to help with image layout as well as ensuring user will have to scroll to see the answers */
+div {
+  height: 500px;
+}
+
+/* 2) Style the container's layout so that the layout of the images matches the order of the answers */
+/* image container style */
+
+
+
+/* citation style */
+.citations {
+  font-size: 10px;
+  font-style: italic;
+  margin: 50px;
+}
+
+/* answers style */
+.answers {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 12px;
+  font-family: monospace;
+  
 }

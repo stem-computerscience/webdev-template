@@ -1,5 +1,19 @@
-/* Chapter 1: Creating Webpages / Lesson 12: Organizing Content with Flexbox / Level 2 */
+.container {
+  /* We gave the div container a background color so you can see how the items are positioned within it */
+  background: #b691d6;
+  
+  /* First, create a flex layout context */
 
-body {
 
+
+  /* Then, define the flow direction 
+  and if the items should wrap */
+
+ 
+}
+
+
+img {
+  border-style: solid;
+  width: 100px;
 }
