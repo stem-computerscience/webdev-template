@@ -1,5 +1,16 @@
-/* Chapter 2: Multi-Page Websites / Lesson 18: CSS Pseudo-classes / Level 4 */
+/* 1) Add a rule for each of the states for the <a> element in the right order. */
 
-body {
+/* 2) Style each state with a different color and font size. */
 
+/* 3) Add any other different styles to each state of your choice. */
+
+
+
+
+
+/* paragraph style */
+p {
+  font-family: sans-serif;
+  font-size: 24px;
+  background-color: #00ebff;
 }
