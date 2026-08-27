@@ -1,5 +1,33 @@
-/* Chapter 1: Creating Webpages / Lesson 13: Flexbox Children for More Control / Level 4 */
+/* 1) Add a rule in the CSS file for each of the child items using their class attribute as the selector. */
 
-body {
+/* 2) Set each item's order using the order property (see instructions for the order) */
 
+.flex-order {
+  /* We gave the parent div container a background color so you can see how the items are positioned within it */
+  background: #b691d6;
+  display: flex;
+  padding: 5px;
 }
+
+/* styled child divs in parent continer */
+.flex-order > div {x
+  background-color: aliceblue;
+  margin: 5px;
+  width: 45%;
+  text-align: center;
+  line-height: 55px;
+  font-size: 20px;
+  border-style: solid;
+  font-family: sans-serif;
+}
+
+/* ADD CODE BELOW to set the order for "item-a" to be 3rd */
+
+
+/* ADD CODE BELOW to set the order for "item-b" to be 2nd */
+
+
+/* ADD CODE BELOW to set the order for "item-c" to be 4th */
+
+
+/* ADD CODE BELOW to set the order for "item-d" to be 1st */

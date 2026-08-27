@@ -1,5 +1,31 @@
-/* Chapter 1: Creating Webpages / Lesson 13: Flexbox Children for More Control / Level 6 */
+/* 1) Add the flex-grow property to the first container and set the child elements grow based on the content inside the container */ 
+.grow0 > p {
 
-body {
+}
+
+
+/* 2) Add the flex-grow property to the second container and set the child elements take an equal portion of the parent container. */
+.grow1 > p {
+
+}
+
+
+/* styled parent containers */
+.grow0, .grow1 {
+  background: #b691d6;
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+}
+
+/* styled paragraphs */
+p {
+  background-color: aliceblue;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  border-style: solid;
+  font-family: sans-serif; 
 
 }
