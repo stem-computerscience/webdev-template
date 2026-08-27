@@ -1,4 +1,4 @@
-# [Web Dev / Game Dev] Class Repository
+# [Web Dev] Class Repository
 
 ## How this repo is organized
 - `starter-files/` — assignment starter code, provided by the teacher
