@@ -1,6 +1,6 @@
 # Web Dev Template
 
-Repo scaffold for **AI Discoveries - Unit 3: Web Development** (Code.org),
+Repo scaffold for Web Development** (Code.org),
 organized by chapter, lesson, and level so each lesson/level has its own
 working folder.
 
