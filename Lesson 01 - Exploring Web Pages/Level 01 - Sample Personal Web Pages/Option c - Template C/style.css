@@ -1,0 +1,51 @@
+body {
+  background: gold;
+  font-family: cursive;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.header {
+  width: 50%;
+  margin-left: 25%;
+  border: solid 4px green;
+  border-radius: 10px;
+}
+
+.align-left {
+  width: 25%;
+  margin-right: 20px;
+  float:left;
+  margin-bottom: 10px;
+  border: solid 4px green;
+  border-radius: 10px;
+}
+
+.align-right {
+  width: 25%;
+  margin-left: 20px;
+  float:right;
+  
+}
+
+hr {
+  clear: both;
+}
+
+.itemtitle {
+  font-family: Arial;
+  font-weight: bold;
+  
+}
+
+.disclaimer {
+  font-family: Consolas;
+  font-size: 10px;
+  color: grey;
+  text-align: center;
+}

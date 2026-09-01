@@ -1,0 +1,24 @@
+.galleryImg {
+  float: left;
+  width: 25%;
+}
+
+.title {
+  font-family: Helvetica;
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+body {
+  background: orange;
+}
+
+p {
+  clear:both;
+  color: #252525;
+  font-family: Consolas;
+  font-size: 10px;
+  text-align: center;
+}

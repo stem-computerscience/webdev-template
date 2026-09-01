@@ -1,0 +1,49 @@
+body {
+  background: yellow;
+  font-family: Arial;
+  
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.alignleft {
+  width: 200px;
+  float: left;
+  margin-right: 40px;
+  border: solid 3px black;
+  box-shadow: 5px 5px 2px red;
+}
+
+.alignright {
+  width: 200px;
+  float: right;
+  margin-left: 40px;
+  border: solid 3px black;
+  box-shadow: -5px 5px 2px red;
+}
+
+.footerimg {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#learnmore {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: fantasy
+}
+
+.disclaimer {
+  font-family: Consolas;
+  font-size: 10px;
+  color: gray;
+  text-align: center;
+}
