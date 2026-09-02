@@ -1,0 +1,24 @@
+/* 1) Add a rule in the CSS file for the third child item using its class attribute as the selector. */
+
+/* 2) Give the third child item a flex-grow property with a value of 5. */
+
+.flex-grow {
+  /* We gave the parent div container a background color so you can see how the items are positioned within it */
+  background: #b691d6;
+  display: flex;
+  padding: 5px;
+}
+
+/* styled child divs in parent continer */
+.flex-grow > div {
+  background-color: aliceblue;
+  margin: 5px;
+  width: 20%;
+  text-align: center;
+  line-height: 55px;
+  font-size: 20px;
+  border-style: solid;
+  font-family: sans-serif;
+}
+
+/* ADD CODE BELOW to give the 3rd child div a flex-grow of 5 */

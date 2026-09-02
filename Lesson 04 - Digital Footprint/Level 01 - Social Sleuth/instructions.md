@@ -1,0 +1,58 @@
+# Social Sleuth
+
+**Type:** External
+
+# Social Sleuth
+
+You will need the <a href="https://docs.google.com/document/d/1ZVXQlNMB6uwEI-eEWI2E3T8CtyqItlM5N44HcgY_zrE/edit"> Social Sleuth Worksheet </a> to complete this activity.
+
+## Profiles
+
+Click on the picture for each profile to open it.
+
+### FaceSpace
+
+| FaceSpace: Lizzie Dell  |  FaceSpace: John T | FaceSpace: Haley G.  |
+| ---------  | ------ |  ------ |
+| <a href="https://downloads.code.org/lessons/codeprojects/F-S5X0IfPmaq09YxGCbOFt3yo4N4PibaA1FBsc4iSdU/index.html" target="_blank">  <img src="https://images.code.org/178adb09adb079a9cf8f465453f9da34-image-1480624941354.42.11 PM.png" style="width:400px"> </a> | <a href="https://downloads.code.org/lessons/codeprojects/6qyeEpRZRNkkrkkEduW8G_VO0Y-W2Z6B2Xn5pbLsUpw/index.html" target="_blank"><img src="https://images.code.org/5d141433497fc107a60f0c2e3c63cca8-image-1480624947223.41.59 PM.png" style="width:400px"></a>  |<a href="https://downloads.code.org/lessons/codeprojects/7vPoGl6YA2bop1bPaIwpYX4_ubrkEBBFau_8s3JGMoo/index.html" target="_blank">  <img src="https://images.code.org/ced7e2ae3c4fc17b6e278de8339e9498-image-1480626229324.02.56 PM.png" style="width:400px"> </a> |
+
+
+### Chirpr
+
+| Chirpr: @johnsnow  |  Chirpr:@flyinghail | Chirpr: @lillizard |
+| ---------  | ------ |  ------ |
+| <a href="https://downloads.code.org/lessons/codeprojects/F-CPrGMcIPZF27RUX8Z_0Qb4KFSCvlU96VSWV7IBD98/index.html" target="_blank">  <img src="https://images.code.org/3a5e7e1136382288f1122354cf494783-image-1480625415782.49.59 PM.png" style="width:400px"> </a> | <a href="https://downloads.code.org/lessons/codeprojects/Kff1I24rG71I-TnC--Uw5hTqZUAWO3iTzzHRHQ3h90U/index.html" target="_blank">  <img src="https://images.code.org/c4ae8d208cfd5cb211d74f1ca4259210-image-1480627944701.31.37 PM.png" style="width:400px"> </a> |<a href="https://downloads.code.org/lessons/codeprojects/c4e3JuM-nCcmYF4XbbxpJ4pX51wyClVZCDYr6HiMyHg/index.html" target="_blank">  <img src="https://images.code.org/42fc1b77b07fbcb4d143a32f1208296f-image-1493301869142.03.52 AM.png" style="width:400px"> </a> |
+
+
+### instantframe
+
+| instantframe: johnsnow  | instantframe: @photolizzie | instantframe:@desertrider |
+| ---------  | ------ |  ------ |
+| <a href="https://downloads.code.org/lessons/codeprojects/5Zw4FvstrOYxANYH2HFbV_mVuY-QWfrsdgga9S3DGxs/index.html" target="_blank">  <img src="https://images.code.org/290cb1409343d57ab5ab9be93085004d-image-1480625573589.51.31 PM.png" style="width:400px"> </a> | <a href="https://downloads.code.org/lessons/codeprojects/JXB8ULbAJJHzC-hHoiiZFxZBT4S32HwF0krGoXSzdE8/index.html" target="_blank">  <img src="https://images.code.org/8e7de383b0747275a075ed9839a118d0-image-1480625641547.53.30 PM.png" style="width:400px"> </a> |<a href="https://downloads.code.org/lessons/codeprojects/xnZk6nZxi0FKMVkwKrsQjvbGWDIwqBW9zDmuCCseMpc/index.html" target="_blank">  <img src="https://images.code.org/c52c51816ce248336a86e3e7f6ec2209-image-1480626143808.01.54 PM.png" style="width:400px"> </a> |
+
+## Teacher Notes
+
+#### Social Sleuth
+
+**Step 1:** Students look through all of the provided social media pages on Code Studio. The pages represent several unique individuals, each of whom has an account on three social media platforms. They are distributed as follows (do not share this with students):
+
+|               | FaceSpace  | Chirpr     | instantframe |
+| ------------- | ---------  | ---------  | ------------ |
+| John Thomas   | John T     | @johnsnow  | johnsnow     |
+| Haley Gutierrez   | Haley G  | @flyinghail | desertrider  |
+| Lizzie Dell    | Lizzie Dell| @lillizard | photolizzie  |
+
+
+**Tip:**
+
+Students are asked to choose two users from the available profiles, but if you are short on time, you can ask students to complete just one of the footprints.
+
+**Step 2:** Once they've looked through the pages, students will attempt to figure out who the two users are and answer some detailed questions about them. The footprint questions are designed to push students towards combining details from multiple social platforms and understanding that together the profiles represent more detailed information than the users probably intend to reveal about themselves. Some questions may not be answerable for all users, or may have different levels of details (full street address for one user, but only a city and state for another).
+
+**Share:** Have the class share the digital footprints that they developed through the activity.
+
+**Discuss:**
+
+* Which information was most difficult to find?
+* Which details were innocuous on their own, but revealed private information when combined with other details?
+* How does this make you think differently about what you choose to post online?

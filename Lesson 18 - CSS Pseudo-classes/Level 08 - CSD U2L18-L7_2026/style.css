@@ -1,0 +1,67 @@
+/* 1) ADD A RULE SET FOR EACH PSEUDO-CLASS TO STYLE THE ANCHOR TAG */
+
+
+
+
+
+
+
+/* body style */
+body {
+  background-color: #f3eff6;
+  text-align: center;
+  font-family: Arial;
+}
+
+/* title style */
+h1 {
+  font-family: Arial;
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+/* paragraph style */
+p {
+  font-size: 18px;
+}
+
+/* image flex layout style */
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* image flex layout style */
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+/* image style */
+img {
+  border-style: solid;
+  border-radius: 15px;
+  width: 350px;
+  margin: 15px;
+}
+
+/* citation style */
+.citation {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.citation > p {
+  font-size: 12px;
+  font-style: italic;
+}

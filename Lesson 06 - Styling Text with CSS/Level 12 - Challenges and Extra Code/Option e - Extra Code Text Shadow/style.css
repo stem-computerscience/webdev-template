@@ -1,0 +1,21 @@
+/* 2) Give the h2 tag a shadow spaced two pixels to the right and up from the original text */
+/* 3) Give a text shadow to other tags as well */
+h1 {
+  color: lightpink;
+  text-align: center;
+  text-shadow: -2px 2px black;
+}
+
+h2 {
+  color:palevioletred;
+  text-align: center;
+}
+
+h3 {
+  text-align:center; 
+}
+
+p {
+  font-size: 14px;
+  text-align: center;
+}

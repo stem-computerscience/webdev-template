@@ -1,0 +1,9 @@
+# Sample Website
+
+**Type:** External
+
+# Sample Website
+
+Click the website below to discover some new types of styling for your pages.
+
+[![](https://images.code.org/4343b7c16ca18f6d2c003bf95d756f42-image-1585189253769.png)](https://studio.code.org/projects/weblab2/Y7TbHszAtM_YupzxRMOB7KbgdkJ1UJYJaayfyLcGfn0)

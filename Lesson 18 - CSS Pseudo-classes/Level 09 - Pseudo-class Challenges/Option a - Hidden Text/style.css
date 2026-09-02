@@ -1,0 +1,16 @@
+/* basic style for all text */
+* {
+  font-family: Verdana;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* 1) Add properties to this paragraph rule set */
+p {
+  padding: 15px;
+  
+  
+  
+}
+
+/* 2) ADD a rule set to style the paragraph child of the div with the hover pseudo-class */

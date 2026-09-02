@@ -1,0 +1,28 @@
+/* 1) Add a rule set to style the div with the hover pseudo-class to reveal the cracked message */
+
+
+
+
+/* styled div content to hide text */
+div{
+  color: #dde9ff; /* color of text is the same as the color of the page */
+  font-size: 24px;
+}
+
+/* basic style for all text */
+body {
+  font-family: Verdana;
+  text-align: center;
+  background-color: #dde9ff;
+}
+
+/* paragraph style */
+p {
+  font-size: 18px;
+}
+
+/* list item style */
+li {
+  text-align: left;
+  margin:5px;
+}

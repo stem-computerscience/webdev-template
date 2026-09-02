@@ -1,0 +1,80 @@
+/* FIND AND FIX THE BUGS FOR THE ANCHOR TAG STATES */
+
+.egyptians.link {
+  font-family:Arial;
+  color:#0014ff;
+  font-size: 18px;
+}
+
+egyptians.hover {
+  color: #f7f8fd;
+  background-color: #2f35ff;
+  font-size: 24px;
+  text-decoration-style: wavy;
+  border-radius: 7px;
+}
+
+.mayans.link {
+  font-family:Verdana;
+  color:#a80707;
+  font-size: 18px;
+}
+
+mayans:hover {
+  color: #f7f8fd;
+  background-color: #a80707;
+  font-size: 24px;
+  text-decoration-style: wavy;
+  border-radius: 7px;
+}
+
+/* body style */
+body {
+  background-color: #ffd9d9;
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.link-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+img {
+  border-style: solid;
+  border-radius: 15px;
+  width: 300px;
+  margin: 15px;
+}
+
+.citation {
+  height: 300px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.citation > p {
+  text-align: center;
+  font-style: italic;
+  font-size: 10px;
+}

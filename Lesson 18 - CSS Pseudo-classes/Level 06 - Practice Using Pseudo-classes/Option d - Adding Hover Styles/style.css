@@ -1,0 +1,81 @@
+/* style for hyperlink buttons */
+a {
+  border-style: solid;
+  border-color: darkmagenta; 
+  border-radius: 5px;
+  padding: 10px;
+  text-decoration: none;
+  background-color: aliceblue;
+}
+
+a:link {
+  font-size: 18px;
+  color:darkmagenta;
+  font-weight: bold;
+}
+
+/* 1) ADD A RULE SET FOR EACH HYPERLINK TO STYLE THE HOVER PSEUDO-CLASS */
+
+/* 2) Give each hyperlink a unique style */
+
+
+
+
+
+
+/* style for div container */
+.buttons {
+  text-align: center;
+  height: 40px;
+  margin: 20px;
+}
+
+/* body style */
+body {
+  background-color: #daffd9;
+  text-align: center;
+  font-family: Arial;
+}
+
+/* title style */
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+/* paragraph style */
+p {
+  font-size: 18px;
+}
+
+/* image container flex layout */
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+/* image style */
+img {
+  border-style: solid;
+  border-radius: 15px;
+}
+
+.narwhal {
+  max-width: 450px;
+}
+
+/* image citation */
+.citation {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.citation > p {
+  font-size: 12px;
+  font-style: italic;
+}

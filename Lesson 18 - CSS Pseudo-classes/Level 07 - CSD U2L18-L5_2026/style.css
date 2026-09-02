@@ -1,0 +1,17 @@
+/* 1) Add a rule for the "hover" state of the anchor tag using its "highlight" class attribute in the selector */
+
+/* 2) Style this state with a different background-color and large font size. */
+
+/* 3) Add any other different styles to each state of your choice. */
+
+
+
+
+
+
+/* paragraph style */
+p {
+  font-family: sans-serif;
+  font-size: 24px;
+  background-color: #ffa2e6;
+}

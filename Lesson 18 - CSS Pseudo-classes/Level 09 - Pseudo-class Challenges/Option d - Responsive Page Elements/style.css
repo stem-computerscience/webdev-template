@@ -1,0 +1,51 @@
+/* body style */
+body {
+  font-family: Verdana, sans-serif;
+}
+
+/* gallery style */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+/* style for each ramen info card */
+.ramen-card {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+  /* 3) Add the "transition" property with the value of "transform 0.3s ease-in-out" */
+  
+  /* 4) Add the "cursor" property with a value of "pointer" */
+  
+}
+
+/* 1) Add the hover pseudo-class for the ramen-card class */
+/* 2) Add the "transform" property with the value of "translateY(-15px)" */
+
+
+
+/* style for the card content */
+.content {
+  padding: 10px;
+}
+
+/* style for the paragraph text in the ramen info card */
+.ramen-card p {
+  font-size: 17px;
+}
+
+/* h3 style */
+.ramen-card h3 {
+  margin-bottom: 10px;
+}
+
+/* style for images */
+.ramen-card img {
+  width: 100%;
+}

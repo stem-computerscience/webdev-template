@@ -1,0 +1,39 @@
+body {
+  background: lightblue;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: fantasy;
+  text-shadow: #ffffff 1px 1px 0px;
+  font-size: 56px;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 24px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  border-style: solid;
+  border-color: #00bcff;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h4 {
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+}

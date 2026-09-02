@@ -1,0 +1,12 @@
+/* 2) Change the code for the h1 tag so that it is aligned to the center of the page */
+/* 3) Change the alignment of the paragraph tag */
+h1 {
+  color: green;
+  font-size: 24px;
+}
+h6 {
+  text-align: right;
+}
+p {
+    font-size: 14px;
+}

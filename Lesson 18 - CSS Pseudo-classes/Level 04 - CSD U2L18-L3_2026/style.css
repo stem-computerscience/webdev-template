@@ -1,0 +1,15 @@
+/* 1) Add a rule to style the "hover" state of the <a> element */
+
+
+
+
+/* 2) Add a rule to style the "active" state of the <a> element. */
+
+
+
+/* paragraph style */
+p {
+  font-family: sans-serif;
+  font-size: 24px;
+  background-color: #4cff00;
+}

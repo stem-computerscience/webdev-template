@@ -1,0 +1,28 @@
+/* 1) Add a rule set to style the images with the hover pseudo-class */
+
+
+
+/* basic style for all text */
+body {
+  font-family: Verdana;
+  text-align: center;
+  font-weight: bold;
+  background-color: azure;
+}
+
+/* flex layout for images in container */
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+/* basic image style */
+img {
+  width: 250px;
+  border-style: inset;
+  border-color:darkmagenta;
+  border-radius: 5px;
+}

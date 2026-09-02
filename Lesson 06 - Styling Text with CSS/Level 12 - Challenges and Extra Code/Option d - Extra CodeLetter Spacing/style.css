@@ -1,0 +1,21 @@
+/* 2) Change the code for the h2 tag so that the letters are spaced out by two pixels */
+/* 3) Change the letter spacings of the paragraph and h3 tags */
+h1 {
+  color: lightpink;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+h2 {
+  color:lawngreen;
+  text-align: center;
+}
+
+h3 {
+  text-align:center; 
+}
+
+p {
+  font-size: 14px;
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+body {
+  background-image: url("backgroundCloud.jpg");
+}
+p {
+  color: white;
+  font-family: monospace;
+}
+h1 {
+  font-weight: bold;
+  font-family: cursive;
+  color: deepskyblue;
+}
+
+h2 { 
+  font-family: cursive; 
+  color: skyblue;
+}
+
+h6 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: aliceblue;
+}
+
+img {
+  width: 250px; 
+  float: right;
+  border-style: groove;
+}

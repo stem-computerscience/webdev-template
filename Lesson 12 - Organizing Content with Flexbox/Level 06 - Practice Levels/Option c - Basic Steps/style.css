@@ -1,0 +1,54 @@
+/* For both div containers:
+1) Establish flex layout.
+2) Define which direction the images should be placed.
+3) Define if items should wrap or not.
+4) Define how the content should be spaced horizontally across the container.
+5) Define how the items should be spaced vertially in the container.
+*/
+
+body {
+  background: #f5fdf0;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* ADD FLEX PROPERTIES */
+.bee-pics {
+
+  
+}
+
+/* ADD FLEX PROPERTIES */
+.bee-pics2 {
+
+  
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+}
+
+
+.footer {
+  height: 500px; 
+  display: flex;
+  align-items: flex-end;
+}
+
+.citation {
+  font-size: 12px;
+  font-style: italic;
+}

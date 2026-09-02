@@ -1,0 +1,67 @@
+/* FIND AND FIX THE BUGS FOR THE ANCHOR TAG STATES */
+
+a:active {
+  color:forestgreen;
+  background-color: yellow;
+  font-size: 26px;
+}
+
+a:link {
+  color:#a200ff;
+  font-size: 18px;
+  font-style: italic;
+}
+
+a:hover {
+  color: #e7ff07;
+  background-color: #a12fff;
+  font-size: 24px;
+  text-decoration-style: wavy;
+  border-radius: 7px;
+}
+
+a:visited {
+  color: crimson;
+  font-size: 18px;
+}
+
+
+body {
+  background-color: #d9ffd9;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  border-style: solid;
+  border-radius: 15px;
+  width: 300px;
+  margin: 15px;
+}
+
+.citation {
+  height: 300px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.citation > p {
+  text-align: center;
+  font-style: italic;
+  font-size: 10px;
+}

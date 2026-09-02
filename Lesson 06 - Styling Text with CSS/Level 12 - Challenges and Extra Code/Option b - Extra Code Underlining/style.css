@@ -1,0 +1,13 @@
+/* 2) Change the text decoration for the h4 tag to something else */
+/* 3) Add a text decoration property for the paragraph, h1, h2, or h3 tag */
+h1 {
+  color: green;
+  font-size: 24px;
+}
+h4 {
+  color: red;
+  text-decoration: underline double;
+}
+p {
+    font-size: 14px;
+}

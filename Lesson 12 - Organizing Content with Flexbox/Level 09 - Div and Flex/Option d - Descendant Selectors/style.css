@@ -1,0 +1,39 @@
+/* 1) Add a rule to the CSS file that uses the descent selector to style ALL the images within the container. */
+
+/* p child tags inside parent div */
+.parent p {
+  background-color: yellow;
+}
+
+/* flex style for items in container */
+.container-1 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #b691d6;
+
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-flow: row wrap;
+
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: space-evenly;
+
+  /* Define how items should be distributed vertically within the container */
+  align-items: center;
+
+}
+
+/* image style */
+img {
+  border-style: solid;
+  border-width: thick;
+  border-color: forestgreen;
+}
+
+/* ADD CODE BELOW to style the images within the div container with the child selector */
+
+
+/* CHALLENGE */
+/* ADD CODE BELOW to style the first two images within the div container with the child selector */

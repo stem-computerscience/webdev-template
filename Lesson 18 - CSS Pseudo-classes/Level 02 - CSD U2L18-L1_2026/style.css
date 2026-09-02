@@ -1,0 +1,70 @@
+/* page color */
+body {
+  background-color: aliceblue;
+}
+
+/* title style */
+h1 {
+  font-family: fantasy;
+  letter-spacing: 1px;
+  color: blue;
+  text-align: center;
+  font-size: 44px;
+}
+
+/* div style to center links */
+.links {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* CHECK ME OUT! link special styling */
+a:hover {
+  color: #fe5dbe;
+  font-size: 24px;
+  text-decoration-style: wavy;
+}
+
+/* CHECK ME OUT! link special styling */
+a:active {
+  color: #fd0000;
+  text-decoration-color: blue;
+
+}
+
+/* basic link style */
+a {
+  font-family:fantasy;
+  letter-spacing: 1px;
+  font-size: 18px;
+  color:blue;
+  margin: 10px;
+}
+
+/* paragraph style */
+p {
+  font-family:monospace;
+  font-size: 20px;
+}
+
+/* style for content divs */
+.buildings, .home, .cars, .trains {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+/* flex order for images */
+.home-pic, .flying-car {
+  order: -1;
+}
+
+/* basic image style */
+img {
+  border-style: solid;
+  border-color: darkgreen;
+  border-radius: 20px;
+  margin: 10px;
+}
