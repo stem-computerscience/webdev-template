@@ -1,9 +1,0 @@
-# Sample Website
-
-**Type:** External
-
-# Sample Website
-
-Click the website below to discover some new ways to style elements.
-
-[![](https://images.code.org/71a3cb8e9708093b17b9c75eb0723d10-image-1588247512749.49.53 AM.png)](https://studio.code.org/projects/weblab2/4ef22519-8833-462e-aa68-80a7530a8f0c)
