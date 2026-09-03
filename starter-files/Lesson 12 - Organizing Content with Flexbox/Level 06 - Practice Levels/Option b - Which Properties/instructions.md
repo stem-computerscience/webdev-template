@@ -1,42 +1,26 @@
-# CSD U2L12-L2_2026
+# Which Properties?
 
-# Display, Direction and Wrap
+*Can you figure out which Flex properties were used with each container?*
 
-The first three steps we typically follow when applying Flex properties are: 1) establish the layout, 2) define the flow direction and if items should wrap, and 3) define how the items should be distributed. Let's try out the **first two steps**:  **1) establish flex layout** and **2) define the direction and wrap**.
+<img src="https://images.code.org/ce09cccb20efba7f78af22e52bfbed46-image-1705713180877.png" style="width:250px; float: right;">
+
+# Which properties?
+
+Can you figure out which Flex properties were used with each container to create the image to the right?
+
+All containers have `display`, `flex-direction`, and `flex-wrap` already defined. Can you figure out which horizontal and vertical alignment properties each container has?
 
 # Do This
 
-1. Add a `div` container around the image tags.
-2. Add the class name `.container` to the `div` tag.
-3. Add the following Flex properties to the container:
-   - Establish flex layout with `display: flex;`
-   - Define the flow direction with `flex-direction: row;`. 
-    - Define if items should wrap with `flex-wrap: wrap;`.
-4. Change the size of your Preview window to see the wrapping effects (see gif below).
-5. Change the values for the `flex-direction` property to see what each one does: 
-   - Value options include:
-      - `row`
-      - `row-reverse`
-      - `column`
-      - `column-reverse`
-6. Change the values for the `flex-wrap` property to see what each one does: 
-   - Value options include:
-      - `wrap`
-      - `nowrap`
-      - `wrap-reverse`
+1. Examine the image to the right to figure out which containers should get which horizontal and vertical alignment properties.
+2. Add the correct properties and values to each container's ruleset in the CSS file.
+   - As before, you may need to resize your "Preview" window to determine if you've matched the image.
 
 <br>
 
-::: details [🔎 **Show Me How To Complete This Level** 🔍]
-![](https://images.code.org/87b99e15299d4c3e3433c3303022582c-image-1771636399884.gif)
-:::
+::: details [🔎 **Show Me How To Get Started** 🔍]
 
-<br>
-
-::: details [**Show Me How To Resize The Preview Window**]
-
-![](https://images.code.org/a6263f23f215b8387ee600b707aab150-image-1771636757562.gif)
-
+<img src="https://images.code.org/88a2f94e85079d5288bcd1f25ab1a9af-image-1708194006281.gif" style="width:500px">
 :::
 
 <br>
@@ -45,8 +29,8 @@ The first three steps we typically follow when applying Flex properties are: 1) 
 
 
 ::: details [Help & Tips]
-- [<i class="fa-regular fa-map"></i> Div Tags](https://studio.code.org/courses/csd-2024/guides/div)
-- [<i class="fa-solid fa-book"></i> Flexbox](https://studio.code.org/courses/csd-2024/guides/flexbox)
+- [<i class="fa-regular fa-map"></i> Flexbox](https://studio.code.org/courses/csd-2024/guides/flexbox)
+- [<i class="fa-solid fa-book"></i> Div Tags](https://studio.code.org/courses/csd-2024/guides/div)
 - [<i class="fa-solid fa-book"></i> Classes](https://studio.code.org/courses/csd-2024/guides/classes)
 - [<i class="fa-solid fa-book"></i> Layout Properties](https://studio.code.org/courses/csd-2024/guides/layout-properties)
 - [<i class="fa-solid fa-book"></i> Body Styling](https://studio.code.org/courses/csd-2024/guides/body-styling)
