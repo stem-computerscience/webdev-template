@@ -1,0 +1,19 @@
+body {
+  font-family: monospace;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 300px;
+  border-style: solid;
+  border-color:#8c64ed;
+  border-radius: 40px;
+}
+
+a {
+ 
+}
