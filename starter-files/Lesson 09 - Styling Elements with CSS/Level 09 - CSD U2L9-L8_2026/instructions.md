@@ -1,13 +1,15 @@
-# Debug the style
+# CSD U2L9-L8_2026
 
-*Figure out why the images are not the correct height and debug this page.*
+# Try it out!
 
-# Debug the Style
-
-None of the styles are working for this page.  
+Now that you've seen some different ways to style, it's time to try it out yourself.  Here's a web page you've seen before, but it needs some style!
 
 # Do This
-1) Debug the code, then change the styles to something you like.
+
+1. Give the webpage a background color.
+* Make all the images go to the right of the page.
+* Make all of the text a different color.
+* Add any other styles you want.
 
 ::: details [Help & Tips]
 - [<i class="fa-regular fa-map"></i> Layout Properties](https://studio.code.org/courses/csd-2024/guides/layout-properties)

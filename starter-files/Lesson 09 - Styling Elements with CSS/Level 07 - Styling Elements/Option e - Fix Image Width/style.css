@@ -1,0 +1,14 @@
+body {
+ background: lightcyan;
+}
+
+h6 {
+  text-align: right;
+}
+
+img {
+  float: left;
+  margin: 10px;
+  border-radius: 20px;
+}
+

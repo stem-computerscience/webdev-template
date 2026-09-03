@@ -1,0 +1,24 @@
+body {
+  color: lavender;
+  background: black; 
+}
+
+h6 {
+  text-align: right;
+}
+
+img {
+  float: right;
+  width: 200px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+p {
+    text-align: left;
+    font-size: 17px;
+}
+
+a {
+ color: lavender;
+}
