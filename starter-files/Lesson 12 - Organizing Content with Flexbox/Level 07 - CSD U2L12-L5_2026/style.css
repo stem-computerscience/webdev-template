@@ -1,0 +1,132 @@
+/* 2) Match the image on the right by applying the correct value with each of the align-content properties */
+
+.container-1 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #b691d6;
+  
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: center;
+  
+  /* ADD CODE BELOW to define how WRAPPED items should be distributed vertically within the container */
+
+
+}
+
+.container-2 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #91d6ce;
+
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: center;
+
+  /* ADD CODE BELOW to define how WRAPPED items should be distributed vertically within the container */
+
+  
+}
+
+.container-3 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #d691c4;
+
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: center;
+
+  /* ADD CODE BELOW to define how WRAPPED items should be distributed vertically within the container */
+
+
+}
+
+.container-4 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #9cd691;
+
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: center;
+
+  /* ADD CODE BELOW to define how WRAPPED items should be distributed vertically within the container */
+
+
+}
+
+.container-5 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #f6f48c;
+
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: center;
+
+  /* ADD CODE BELOW to define how WRAPPED items should be distributed vertically within the container */
+
+
+}
+
+.container-6 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  background: #f68c8c;
+
+  /* Create a flex layout context */
+  display: flex;
+
+  /* Define the flow direction 
+  and if the items should wrap */
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  /* Define how items should be distributed horizontally across the container */
+  justify-content: center;
+
+  /* ADD CODE BELOW to define how WRAPPED items should be distributed vertically within the container */
+
+
+
+}
+
+img{
+  width: 100px;
+  border-style: solid;
+}
+
+/* the container was given extra height so you can see the spacing affects of the align-content property */
+div {
+  height: 300px;
+}
