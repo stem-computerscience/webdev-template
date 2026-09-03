@@ -1,0 +1,48 @@
+/* style for page */
+body {
+  background-color: aliceblue;
+  font-family: Arial;
+  text-align: center;
+}
+
+/* image style */
+img {
+  border-style: solid;
+  border-width: thick;
+  width: 800px;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+/* image gallery flex layout */
+.image-gallery {
+  display: flex;
+  margin: 10px;
+  flex-direction: column;
+}
+
+/* image layouts */
+.arctic {
+  order: 2;
+  align-self: flex-start;
+}
+
+.rainforest {
+  order: 4;
+  align-self: center;
+}
+
+.reef {
+  order: 1;
+  align-self: flex-end;
+}
+
+.desert {
+  order: 5;
+  align-self: center;
+}
+
+.savannah {
+  order: 3;
+  align-self: flex-start;
+}
