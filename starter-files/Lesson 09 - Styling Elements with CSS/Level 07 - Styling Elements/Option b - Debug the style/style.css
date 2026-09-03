@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+  color: deeppink;
+}
+
+hr {
+  width: 100%;
+}
+
+img {
+  float: right;
+  width: 200px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+p {
+    text-align: left;
+    font-family: fantasy;
+    font-size: 14px;
+}
