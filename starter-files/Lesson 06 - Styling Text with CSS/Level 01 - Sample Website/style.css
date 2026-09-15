@@ -1,0 +1,14 @@
+p {
+  font-style: italic;
+  font-size: 24px;
+}
+h2 {
+  text-decoration: underline;
+  color:crimson
+}
+h3 {
+  font-size: 10px; 
+}
+h1 {
+  color:blueviolet
+}
