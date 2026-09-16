@@ -1,0 +1,16 @@
+p {
+  color: gray;
+  font-style: italic;
+}
+h1 {
+  color: navy;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+
+h3 {
+  color: navy;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
+}
